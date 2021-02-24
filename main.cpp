@@ -4,6 +4,8 @@
 #include "catch.hpp"
 #include "binomial.h"
 //------------------------------
+using namespace std;
+
 
 //------------------------------
 //   DO NOT MODIFY TEST CASES
